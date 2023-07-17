@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@akoz86"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/akoz86/Homeassistant-MinecraftBedrockServer",
+  "domain": "minecraft_bedrockserver",
+  "iot_class": "local_polling",
+  "name": "Minecraft Bedrock Server",
+  "requirements": [],
+  "version": "1.0.0"
+}

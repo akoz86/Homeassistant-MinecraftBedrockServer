@@ -1,0 +1,1 @@
+DOMAIN = "minecraft_bedrockserver"

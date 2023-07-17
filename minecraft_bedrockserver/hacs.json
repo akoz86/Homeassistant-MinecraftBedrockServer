@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft Bedrock Server",
+  "render_readme": true,
+  "iot_class": "local_polling"
+}
